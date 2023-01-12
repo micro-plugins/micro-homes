@@ -7,9 +7,9 @@
       ]
     },
     {
-      "name": "Gradle: org.jetbrains:annotations:23.1.0",
+      "name": "Gradle: org.jetbrains:annotations:24.0.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.1.0/d095a317cafe983999c7c8ad14da1a503288b55e/annotations-23.1.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/24.0.0/69b8b443c437fdeefa8d20c18d257b94836a92b9/annotations-24.0.0.jar!/"
       ]
     },
     {

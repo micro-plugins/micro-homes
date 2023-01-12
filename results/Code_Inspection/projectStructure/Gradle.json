@@ -18,12 +18,12 @@
       "version": "1.19.3-R0.1-SNAPSHOT"
     },
     {
-      "ideaName": "Gradle: org.jetbrains:annotations:23.1.0",
-      "gradleName": "org.jetbrains:annotations:23.1.0",
+      "ideaName": "Gradle: org.jetbrains:annotations:24.0.0",
+      "gradleName": "org.jetbrains:annotations:24.0.0",
       "unresolved": false,
       "groupId": "org.jetbrains",
       "artifactId": "annotations",
-      "version": "23.1.0"
+      "version": "24.0.0"
     },
     {
       "ideaName": "Gradle: net.kyori:adventure-text-logger-slf4j:4.12.0",
