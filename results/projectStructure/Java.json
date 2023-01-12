@@ -1,0 +1,16 @@
+{
+  "modules": [
+    {
+      "name": "micro-homes",
+      "languageLevel": 17
+    },
+    {
+      "name": "micro-homes.test",
+      "languageLevel": 17
+    },
+    {
+      "name": "micro-homes.main",
+      "languageLevel": 17
+    }
+  ]
+}

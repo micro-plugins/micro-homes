@@ -1,0 +1,29 @@
+{"version":"3","listProblem":[{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable API Usage",
+  "severity": "High",
+  "comment": "'org.gradle.language.jvm.tasks.ProcessResources' is declared in unstable package 'org.gradle.language.jvm.tasks' marked with @Incubating",
+  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "build.gradle.kts",
+      "language": "kotlin",
+      "line": 49,
+      "offset": 16,
+      "length": 16,
+      "code": {
+        "startLine": 47,
+        "length": 16,
+        "offset": 18,
+        "surroundingCode": "}\n\ntasks.withType<ProcessResources> {\n    filesMatching(\"*.yml\") {\n        expand("
+      }
+    }
+  ],
+  "attributes": {
+    "module": "micro-homes",
+    "inspectionName": "UnstableApiUsage"
+  },
+  "hash": "33702359f57df3a0654880f4b1cbffb7419502ed793312edc11b25efb4a041bd"
+}]}

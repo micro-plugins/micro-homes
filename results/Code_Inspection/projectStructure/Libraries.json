@@ -1,0 +1,160 @@
+{
+  "libraries": [
+    {
+      "name": "Gradle: io.papermc.paper:paper-api:1.19.3-R0.1-SNAPSHOT",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.papermc.paper/paper-api/1.19.3-R0.1-SNAPSHOT/afba996ddc832986809fb29b5c417fa9a60aa65b/paper-api-1.19.3-R0.1-SNAPSHOT.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: org.jetbrains:annotations:23.1.0",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.1.0/d095a317cafe983999c7c8ad14da1a503288b55e/annotations-23.1.0.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: co.aikar:acf-paper:0.5.0-SNAPSHOT",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/co.aikar/acf-paper/0.5.0-SNAPSHOT/a99c1f1fd1b92aa028289ad3f5243dabe27050d/acf-paper-0.5.0-SNAPSHOT.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: net.kyori:adventure-text-logger-slf4j:4.12.0",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/net.kyori/adventure-text-logger-slf4j/4.12.0/888548f784b40e35103a2548dfafa8201068dd1e/adventure-text-logger-slf4j-4.12.0.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: net.kyori:adventure-text-minimessage:4.12.0",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/net.kyori/adventure-text-minimessage/4.12.0/c587ced911b95ee3d1ee1c6738ea643f858c826b/adventure-text-minimessage-4.12.0.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: net.kyori:adventure-text-serializer-gson:4.12.0",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/net.kyori/adventure-text-serializer-gson/4.12.0/74405a444d9a7f23f2a20811562d0a6cc6251966/adventure-text-serializer-gson-4.12.0.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: net.kyori:adventure-text-serializer-legacy:4.12.0",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/net.kyori/adventure-text-serializer-legacy/4.12.0/e27192a793d85b40ef0cf885d45e766c611f91bd/adventure-text-serializer-legacy-4.12.0.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: net.kyori:adventure-text-serializer-plain:4.12.0",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/net.kyori/adventure-text-serializer-plain/4.12.0/e0711d65c29676908cda8bee2bd1d12f02b16e46/adventure-text-serializer-plain-4.12.0.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: net.kyori:adventure-api:4.12.0",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/net.kyori/adventure-api/4.12.0/f2351c9766a9c68e9535fa5157699f44ef53d8be/adventure-api-4.12.0.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: net.md-5:bungeecord-chat:1.16-R0.4-deprecated+build.6",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/net.md-5/bungeecord-chat/1.16-R0.4-deprecated+build.6/34a32cc95e1c5f12176cf0a8aeeff087ff8a17e0/bungeecord-chat-1.16-R0.4-deprecated+build.6.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: com.google.guava:guava:31.1-jre",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/com.google.guava/guava/31.1-jre/60458f877d055d0c9114d9e1a2efb737b4bc282c/guava-31.1-jre.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: com.google.code.gson:gson:2.10",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.10/dd9b193aef96e973d5a11ab13cd17430c2e4306b/gson-2.10.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: org.yaml:snakeyaml:1.33",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.33/2cd0a87ff7df953f810c344bdf2fe3340b954c69/snakeyaml-1.33.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: com.googlecode.json-simple:json-simple:1.1.1",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1.1/c9ad4a0850ab676c5c64461a05ca524cdfff59f1/json-simple-1.1.1.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: it.unimi.dsi:fastutil:8.5.6",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/it.unimi.dsi/fastutil/8.5.6/76f95700418a68fbc4ac050525261f05dc681ca1/fastutil-8.5.6.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: org.apache.logging.log4j:log4j-api:2.17.1",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.17.1/d771af8e336e372fb5399c99edabe0919aeaf5b2/log4j-api-2.17.1.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: org.slf4j:slf4j-api:1.8.0-beta4",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.8.0-beta4/83b0359d847ee053d745be7ec0d8e9e8a44304b4/slf4j-api-1.8.0-beta4.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: org.checkerframework:checker-qual:3.21.0",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.21.0/55aaf38ec65c7aee19697257d644493c06dee1fe/checker-qual-3.21.0.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: net.kyori:adventure-key:4.12.0",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/net.kyori/adventure-key/4.12.0/c5c1e8a4f0664b91e3116e5ecdd8d271362d4ae9/adventure-key-4.12.0.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: net.kyori:examination-string:1.3.0",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/net.kyori/examination-string/1.3.0/6f34afef5c54ccce4996bc321abf77518b55b4bd/examination-string-1.3.0.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: net.kyori:examination-api:1.3.0",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/net.kyori/examination-api/1.3.0/8a2d185275307f1e2ef2adf7152b9a0d1d44c30b/examination-api-1.3.0.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: com.google.guava:failureaccess:1.0.1",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: com.google.code.findbugs:jsr305:3.0.2",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: com.google.errorprone:error_prone_annotations:2.11.0",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.11.0/c5a0ace696d3f8b1c1d8cc036d8c03cc0cbe6b69/error_prone_annotations-2.11.0.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: com.google.j2objc:j2objc-annotations:1.3",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar!/"
+      ]
+    }
+  ]
+}

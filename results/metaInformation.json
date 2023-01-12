@@ -1,0 +1,18 @@
+{
+  "total": 1,
+  "tools inspection": {
+    "Code Inspection": 1
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/micro-plugins/micro-homes",
+        "revisionId": "d938746f0745344313df07d03babae2deac27fc9",
+        "branch": "master"
+      }
+    },
+    "deviceId": "200820300000000-78ca-e6a8-51ff-910d17266997",
+    "jobUrl": "https://github.com/micro-plugins/micro-homes/actions/runs/3901331473",
+    "repoUrl": "https://github.com/micro-plugins/micro-homes"
+  }
+}
