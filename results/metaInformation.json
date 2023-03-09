@@ -7,12 +7,12 @@
     "vcs": {
       "sarifIdea": {
         "repositoryUri": "https://github.com/micro-plugins/micro-homes",
-        "revisionId": "ed1f373db32d5d4fef96de6229cb81e66a2d5c1b",
+        "revisionId": "8cb52f9555440fd0c95172be88fefb6182bf1b68",
         "branch": "master"
       }
     },
     "deviceId": "200820300000000-78ca-e6a8-51ff-910d17266997",
-    "jobUrl": "https://github.com/micro-plugins/micro-homes/actions/runs/3901764730",
+    "jobUrl": "https://github.com/micro-plugins/micro-homes/actions/runs/4371085816",
     "repoUrl": "https://github.com/micro-plugins/micro-homes"
   }
 }
